@@ -19,6 +19,6 @@ This project aims to predict Alzheimer's disease using transfer learning techniq
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your_username/Alzheimers-Disease-Prediction-through-Transfer-Learning.git
+git clone https://github.com/Saibalajinikki/Alzheimers-Disease-Prediction-through-Transfer-Learning.git
 cd Alzheimers-Disease-Prediction-through-Transfer-Learning
 pip install -r requirements.txt
